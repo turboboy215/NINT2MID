@@ -13,6 +13,7 @@ Examples:
 * NINT2MID "Legend of Zelda, The - Link's Awakening DX (U) (V1.0) [C][!].gbc" 1F
 
 This tool was primarily based on the following disassembly of Super Mario Land: https://github.com/kaspermeerts/supermarioland
+
 As usual, there is another program, NINT2TXT included, which prints out information about the song data from each game. This is essentially a prototype of NINT2MID.
 
 Supported games:
