@@ -25,6 +25,7 @@ Supported games:
 * Game Boy Gallery
 * Game Boy Wars
 * Game Boy Wars Turbo
+* Golf
 * Kaeruno Tameni
 * The Legend of Zelda: Link's Awakening (DX)
 * Lunar Chase
