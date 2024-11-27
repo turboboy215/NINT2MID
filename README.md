@@ -27,10 +27,12 @@ Supported games:
 * Game Boy Wars Turbo
 * Golf
 * Kaeruno Tameni
+* Kirby: Tilt 'n' Tumble
 * The Legend of Zelda: Link's Awakening (DX)
 * Lunar Chase
 * Magnetic Soccer
 * Radar Mission
+* Super Mario Bros. Deluxe
 * Super Mario Land
 * Super Mario Land 2: 6 Golden Coins
 * Tetris
